@@ -1,2 +1,2 @@
 # daily-code
-Practice coding every day on LeetCode, Hackerrank,...
+Chill coding but not in a chill mood 🧔
